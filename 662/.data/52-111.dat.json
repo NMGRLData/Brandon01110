@@ -1,0 +1,95 @@
+{
+    "baselines": [
+        {
+            "blob": "QoJahr0A7aRChIsTvb34BkKGr4m9y6vxQojRHbvPo/A=",
+            "detector": "L2"
+        },
+        {
+            "blob": "QoJahjs6aFRChIsTPPrLPkKGr4m+Jr6uQojRHbwFYz4=",
+            "detector": "AX"
+        },
+        {
+            "blob": "QoJahgAAAABChIsTAAAAAEKGr4kAAAAAQojRHTkfSzM=",
+            "detector": "CDD"
+        },
+        {
+            "blob": "QoJahj0Vl8dChIsTPJxsdUKGr4m9UrTTQojRHT27jEw=",
+            "detector": "H1"
+        },
+        {
+            "blob": "QoJahr2FSaxChIsTvUBR00KGr4m9AM9tQojRHb1odYE=",
+            "detector": "L1"
+        },
+        {
+            "blob": "QoJahj3Kgv1ChIsTPn+oLEKGr4k9uTpIQojRHT22MPk=",
+            "detector": "H2"
+        }
+    ],
+    "commit": "416f577272bb0e21d8ca1b173a51655b9cbc0052",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QaJOLzq8dHZBqudePTyLq0GzoH49CYbrQbxRvD1bXGRBxN7evaviDEHNrdO9CdMBQdZfRDz1NHlB3vLQvR4lAUHnjk69giXiQfAffryHOGRB+OjKPO58GEIA0RU9eocvQgUZvjwqUOJCCVy2vesNEUINoDa9DlDTQhIRdD1rd81CFn3nPbxTwkIax2E8redhQh8IgbwEFf9CI09JvFi0lEInstk9Kd2XQiwOGjyruN1CMF40vLDqWkI0o/Q9IEObQjjr4zzFNGQ=",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QaJOLz5qiehBqudePlWkCkGzoH4+CJhYQbxRvD3GGphBxN7ePZJFt0HNrdO7w/54QdZfRDvAYo5B3vLQPQYZDkHnjk49neLzQfAffj24c+ZB+OjKPep+60IA0RU8kIpSQgUZvj2wdNtCCVy2PfunJkINoDY8iVjKQhIRdLvFghFCFn3nPYWkSkIax2E9RQsYQh8IgTz/DL1CI09JPgv60kInstk+EIM3QiwOGj4IsJVCMF40PZ9UWEI0o/Q9f7G4Qjjr47yc3h0=",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QaJOLzyUF/RBqudePH3f6UGzoH48bvDbQbxRvDx2aGJBxN7ePEwYZEHNrdM8Z3lTQdZfRDxz6zVB3vLQPDWxzkHnjk48F9OyQfAffjw9KVVB+OjKPFYNGEIA0RU8PSlVQgUZvjxTj+tCCVy2PCk/7UINoDY8PSlVQhIRdDw/poJCFn3nPDgu+0Iax2E8P6aCQh8IgTwpP+1CI09JPDgu+0Instk8OC77QiwOGjwrvRpCMF40PF2En0I0o/Q8afaAQjjr4zwhyGY=",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        },
+        {
+            "blob": "QaJOL0BEfFlBqudeQEaLZ0GzoH5ARJquQbxRvEBGR5RBxN7eQEcUckHNrdNASdRMQdZfREBNcmRB3vLQQEwUOEHnjk5ATIntQfAffkBOJElB+OjKQFQxZUIA0RVAUv7cQgUZvkBR/jNCCVy2QE6CpUINoDZAVbqSQhIRdEBUKtdCFn3nQE6uF0Iax2FAVLxjQh8IgUBXaZZCI09JQFTLrUInstlAXA9/QiwOGkBeQQ1CMF40QFwClkI0o/RAX48NQjjr40BhV8E=",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QaJOLzy6EGdBqudePDmrX0GzoH48rYUvQbxRvL0hUgRBxN7evPWlN0HNrdO8k6E2QdZfRLzdH4VB3vLQvJ6GI0Hnjk6869jdQfAffrxOLsRB+OjKvCgcikIA0RU8xeJsQgUZvrvIR8VCCVy2vVsnl0INoDa9WrD4QhIRdLyulD9CFn3nvTKoAkIax2G9V5HNQh8IgTximDtCI09Ju4LcBUInstm9Ao26QiwOGr0EsANCMF40vRXJZkI0o/S9cNVcQjjr472KhG8=",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QaJOLz6Nb6lBqudePtwNjEGzoH4+doveQbxRvDw3Po1BxN7ePp6MbkHNrdM+EaKJQdZfRLzXuFhB3vLQPYty+kHnjk4+fPhwQfAffr2vXbpB+OjKvbgBqEIA0RU+f4pFQgUZvj4oDwtCCVy2PSzc5kINoDa8YA6SQhIRdD42iodCFn3nvJgyjEIax2E9Bo9hQh8IgTt+rJpCI09JPhq+mkInstk9uA9RQiwOGj3gAAdCMF40O6D3u0I0o/S9j9cVQjjr4z0pl9c=",
+            "detector": "H2",
+            "isotope": "Ar41"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "P4rbnD87/ktACVvAP30c+kBOCEo+pWBiQIjLaj3+t6Q=",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "P4rbnEA16aFACVvAQKb2HUBOCEo//ZsJQIjLaj9s8Rs=",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "P4rbnD6HuodACVvAPclL2EBOCEo9F9PEQIjLajzA5SI=",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        },
+        {
+            "blob": "P4rbnD7mm45ACVvAP1IY3UBOCEo+7cDFQIjLaj6rClY=",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "P4rbnD3BSVdACVvAP3P9zEBOCEo/XxEiQIjLaj8OytA=",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "P4rbnECdwG1ACVvAQKuaGUBOCEo/uLqZQIjLaj8tll0=",
+            "detector": "H2",
+            "isotope": "Ar41"
+        }
+    ]
+}
